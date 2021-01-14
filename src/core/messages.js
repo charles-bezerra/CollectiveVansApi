@@ -1,0 +1,1 @@
+export const NoPermision = { message: "You do not have permission to access" };
